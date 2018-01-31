@@ -6,3 +6,4 @@ dependencies:
   - libexpat@1
   - libz@1
   - libm@6
+  - ld@2
